@@ -280,6 +280,7 @@ section .button button:hover{
 .skills-details .experience .num{
   color: #0E2431;
   font-size: 80px;
+  font-weight: 600;
 }
 .skills-details .experience .exp{
   color: #0E2431;
