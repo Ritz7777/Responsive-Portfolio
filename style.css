@@ -175,7 +175,7 @@ section .content{
   width: 80%;
   margin: 40px auto;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 30px;
+  font-size: 20px;
 }
 .about .about-details{
   display: flex;
